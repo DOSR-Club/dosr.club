@@ -13,5 +13,5 @@ hour, it's a time for us all to get work done while being around other Open
 Source people. Of course before, after, and breaks are all great times to
 socialize and meet people!
 
-[Get Together](https://gettogether.community/denver-open-source-remoters-club/)
+Sign up at [Get Together](https://gettogether.community/denver-open-source-remoters-club/).
 
