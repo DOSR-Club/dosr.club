@@ -1,3 +1,7 @@
+---
+redirect_to: https://cassidyjames.com/dosr
+---
+
 # Denver Open Source Remoters Club
 
 We are a group of Open Source contributors in the Denver area who work remotely
