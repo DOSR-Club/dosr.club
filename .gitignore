@@ -1,3 +1,6 @@
-*~
 vendor/
 _site/
+
+# temp/unsaved files from various editors
+*~
+unsaved file*
