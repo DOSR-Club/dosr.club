@@ -1,0 +1,15 @@
+# Site-wide generic info (overridable per-page)
+title: Denver Open Source Remoters Club
+description: We’re a group of Open Source contributors in the Denver area who work remotely and enjoy not going insane from a lack of human contact
+domain: cassidyjames.com
+
+# Settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
