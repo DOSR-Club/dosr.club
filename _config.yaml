@@ -10,8 +10,3 @@ markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
 
-# Plugins
-plugins:
-  - jekyll-redirect-from
-  - jekyll-sitemap
-
