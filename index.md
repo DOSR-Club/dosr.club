@@ -1,5 +1,5 @@
 ---
-redirect_to: https://cassidyjames.com/dosr
+redirect_to: https://gettogether.community/denver-open-source-remoters-club/
 ---
 
 # Denver Open Source Remoters Club
