@@ -3,6 +3,7 @@ title: Denver Open Source Remoters Club
 description: We’re a group of Open Source contributors in the Denver area who work remotely and enjoy not going insane from a lack of human contact
 domain: cassidyjames.com
 image: images/card.jpg
+redirect_to: "https://gettogether.community/denver-open-source-remoters-club/"
 
 # Settings
 markdown: kramdown

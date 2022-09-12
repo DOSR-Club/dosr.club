@@ -18,8 +18,14 @@
     <meta itemprop="description" content="{{ site.description }}">
     <meta name="twitter:description" content="{{ site.description }}">
 
+    {% if site.redirect_to %}
+      <link rel="canonical" href="{{ site.redirect_to }}">
+      <script>location="{{ site.redirect_to }}"</script>
+      <meta http-equiv="refresh" content="0; url={{ site.redirect_to }}">
+    {% endif %}
   </head>
   <body>
     {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
   </body>
 </html>
+
