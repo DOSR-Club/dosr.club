@@ -1,5 +1,5 @@
 ---
-redirect_to: "https://gettogether.community/denver-open-source-remoters-club/"
+layout: default
 ---
 
 # Denver Open Source Remoters Club
